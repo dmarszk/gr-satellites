@@ -455,9 +455,9 @@ blocks:
   parameters:
     affinity: ''
     alias: ''
-    check_fcs: 'True'
+    check_fcs: 'False'
     comment: ''
-    max_length: '10000'
+    max_length: '256'
     maxoutbuf: '0'
     minoutbuf: '0'
   states:
